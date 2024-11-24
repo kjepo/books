@@ -63,8 +63,8 @@ for an introductory textbook today.
 ["Introduction to Algorithms"](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 (CLRS). It is a hefty book (over 1200 pages) and when I taught the
 subject we covered less than half of the book.  Still, this book is an absolute must to
-anyone in the field and I can thoroughly recommend.  I am proud to say that I was
-mentioned in the 2nd edition of the book.  If you can find me, let me know!
+anyone in the field and I can thoroughly recommend it.  I am proud to say that I was
+mentioned in the 2nd edition of the book.  If you can find me, let me know where!
 
 I also want to mention some additional books that I think are interesting.
 
@@ -74,16 +74,17 @@ outlines a very concise notation for writing pseudo code.
 
 - ["Algorithms"](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)
 by Robert Sedgewick is the 4th incarnation of an old classic.  While I haven't read
-the most recent versions of this book, the first version was most enjoyable and
-was full of many "tricks" which have simplified many algorithms.  If you like beautiful
-code, this may be the book for you!
+the most recent versions of this book, the first version was very enjoyable and
+full of many "tricks" which have simplified many algorithms.  If you like beautiful
+code, this is the book for you - as well as the next book which is...
 
 - ["Programming Pearls"](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880/ref=sr_1_1?crid=QEYF6BZ8F1DC&dib=eyJ2IjoiMSJ9.g0foazB5iLdpD1rJmogQwWGK3I5X8urOdCci-oLXTZr28-HfgBHmQ2hkaIAQDNiXwYBdLTAXlnuApjYagHr3l5X5gBIMNlnUfqZKEZQNzrkFKKm39PaP-idDwHdwyyr1SZo9418LQYGSVDN7QpFu7pqbVAdImcp2cMQaWnQQXCXLqEtV-w-N6b7PwsU_teS28CPO9ujySXZ_4qm48GoEmLYZaonKpsesxmA7HHPAxZ0.23pboaVQMxX0jayRJqXTqpCNPZ05jCZq41rKZOW0f5w&dib_tag=se&keywords=programming+pearls&qid=1732472667&sprefix=programming+pear%2Caps%2C347&sr=8-1) by Jon Bentley offers unique and clever solutions
 to a lot of problems that have irritated programmers for decades.
 Jon Bentley has also written a follow-up, "More Programming Pearls".
-If you appreciate beautiful code and like challenging problems, these books are great.
+If you appreciate beautiful code and like challenging problems, these books are awesome.
 
-- ["The Algorithm Design Manual"](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556/ref=sr_1_1?crid=2IKEUMNNA0BLJ&dib=eyJ2IjoiMSJ9.kra-hU1QVoSLjuPAeduBiUbl3u2zs-yUIUkOrKjpeTo.7LQiDZybS1F4XBznleBrsy4738muphhbtxcuUT-GUTA&dib_tag=se&keywords=skienna+algorithms&qid=1732472816&s=digital-text&sprefix=skienna+algorit%2Cdigital-text%2C437&sr=1-1) is a catalog
+- ["The Algorithm Design Manual"](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556/ref=sr_1_1?crid=2IKEUMNNA0BLJ&dib=eyJ2IjoiMSJ9.kra-hU1QVoSLjuPAeduBiUbl3u2zs-yUIUkOrKjpeTo.7LQiDZybS1F4XBznleBrsy4738muphhbtxcuUT-GUTA&dib_tag=se&keywords=skienna+algorithms&qid=1732472816&s=digital-text&sprefix=skienna+algorit%2Cdigital-text%2C437&sr=1-1)
+by Steven Skienna is a catalog
 of algorithm resources.  It is difficult to describe it, but lots of programmers recommend
 it and think it's one of the best overviews on algorithms.
 
@@ -94,4 +95,28 @@ by Ravi Sethi (formerly AT&T Bell Labs and co-author of the Dragon Book) is perh
 if you want to get an overview of different programming language paradigms then
 this is a really nice book.  It describes imperative programming, object-oriented programming,
 functional programming, logic programming and concurrent programming.
+
+### C
+
+(To be written)
+
+### Scheme
+
+(To be written)
+
+## Compilers
+
+(To be written)
+
+## Numerical methods
+
+(To be written)
+
+## Discrete math, probability theory, etc
+
+(To be written)
+
+## Concurrent programming
+
+(To be written)
 
